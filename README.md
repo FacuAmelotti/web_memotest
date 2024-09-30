@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Memotest
 
 ¡Bienvenido al proyecto Memotest! Este es un juego clásico de memoria desarrollado con Vue.js. El objetivo del juego es encontrar pares de cartas iguales en el menor tiempo posible.
@@ -41,3 +42,7 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina local:
    ```bash
     npm run serve
 ```
+=======
+# web_memotest
+Desarrollo web del juego Memotest
+>>>>>>> c333af1a6c0ff1ddecc54588b7e39dcbb428d89f
